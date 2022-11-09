@@ -42,7 +42,7 @@ namespace WindowsFormsApp1
 
         private void label7_Click(object sender, EventArgs e)
         {
-
+            label7.Text = "";
         }
 
         private void button1_Click(object sender, EventArgs e)

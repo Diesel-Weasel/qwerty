@@ -23,5 +23,34 @@ namespace WindowsFormsApp1
             ff3.Show();
             this.Hide();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form5 ff2 = new Form5();
+            ff2.Show();
+            this.Hide();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form1 ff1 = new Form1();
+            ff1.Show();
+            this.Hide();
+        }
     }
 }
