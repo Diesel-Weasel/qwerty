@@ -41,7 +41,7 @@ namespace WindowsFormsApp1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form5 ff2 = new Form5();
+            Form6 ff2 = new Form6();
             ff2.Show();
             this.Hide();
         }

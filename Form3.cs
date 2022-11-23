@@ -53,5 +53,19 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form2 ff3 = new Form2();
+            ff3.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            label7.Text = "";
+        }
     }
 }
