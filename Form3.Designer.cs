@@ -202,6 +202,7 @@ namespace WindowsFormsApp1
             // 
             this.button7.BackColor = System.Drawing.SystemColors.ControlLight;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button7.Location = new System.Drawing.Point(16, 15);
             this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";

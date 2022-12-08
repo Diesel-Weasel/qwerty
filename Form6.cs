@@ -78,5 +78,10 @@ namespace WindowsFormsApp1
             ff6.Show();
             this.Hide();
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

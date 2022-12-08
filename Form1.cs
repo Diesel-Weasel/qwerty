@@ -23,5 +23,12 @@ namespace WindowsFormsApp1
             ff2.Show();
             this.Hide();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form7 ff7 = new Form7();
+            ff7.Show();
+            this.Hide();
+        }
     }
 }
